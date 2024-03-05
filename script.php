@@ -1,6 +1,6 @@
 <?php
 $Token = getenv('TOKEN');
-$ol = getenv('lo');
+$ol = getenv('LO');
 // Array of URLs to retrieve data from
 $urls = [
     'https://dca.sytes.net/$Token/$ol/all.txt?name=dca.sytes.net-unknown&asn=unknown&mode=new',
