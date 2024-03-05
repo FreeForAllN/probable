@@ -1,12 +1,12 @@
 <?php
 $Token = getenv('TOKEN');
-$ol = getenv('LO');
+$LO = getenv('LO');
 // Array of URLs to retrieve data from
 $urls = [
-    'https://dca.sytes.net/$Token/$ol/all.txt?name=dca.sytes.net-unknown&asn=unknown&mode=new',
-    'https://dca.sytes.net/$Token/$ol/all.txt?name=new_link_dca.sytes.net-unknown-new&asn=unknown&mode=new&base64=True',
-    'https://dca.sytes.net/$Token/$ol/clash/all.yml?name=new_normal_dca.sytes.net-unknown-new&asn=unknown&mode=new',
-    'https://dca.sytes.net/$Token/$ol/sub/?asn=unknown'
+    'https://dca.sytes.net/$Token/$LO/all.txt?name=dca.sytes.net-unknown&asn=unknown&mode=new',
+    'https://dca.sytes.net/$Token/$LO/all.txt?name=new_link_dca.sytes.net-unknown-new&asn=unknown&mode=new&base64=True',
+    'https://dca.sytes.net/$Token/$LO/clash/all.yml?name=new_normal_dca.sytes.net-unknown-new&asn=unknown&mode=new',
+    'https://dca.sytes.net/$Token/$LO/sub/?asn=unknown'
 ];
 
 // Function to retrieve data from URL and save to file
