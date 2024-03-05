@@ -22,7 +22,7 @@ jobs:
         run: |
           php script.php
         env:
-          TOKEN: ${{ secrets.TOKEN }}
+          Tokeni: ${{ secrets.TOKEN }}
           LO: ${{ secrets.LO }}
           
       - name: Configure Git and Push
