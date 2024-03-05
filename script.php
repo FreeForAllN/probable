@@ -3,10 +3,10 @@ $EXM = getenv('EXM');
 $NXM = getenv('NXM');
 // Array of URLs to retrieve data from
 $urls = [
-    'https://dca.sytes.net/$EXM/$NXM/all.txt?name=dca.sytes.net-unknown&asn=unknown&mode=new',
-    'https://dca.sytes.net/$EXM/$NXM/all.txt?name=new_link_dca.sytes.net-unknown-new&asn=unknown&mode=new&base64=True',
-    'https://dca.sytes.net/$EXM/$NXM/clash/all.yml?name=new_normal_dca.sytes.net-unknown-new&asn=unknown&mode=new',
-    'https://dca.sytes.net/$EXM/$NXM/sub/?asn=unknown'
+    "https://dca.sytes.net/$EXM/$NXM/all.txt?name=dca.sytes.net-unknown&asn=unknown&mode=new",
+    "https://dca.sytes.net/$EXM/$NXM/all.txt?name=new_link_dca.sytes.net-unknown-new&asn=unknown&mode=new&base64=True",
+    "https://dca.sytes.net/$EXM/$NXM/clash/all.yml?name=new_normal_dca.sytes.net-unknown-new&asn=unknown&mode=new",
+    "https://dca.sytes.net/$EXM/$NXM/sub/?asn=unknown"
 ];
 
 // Function to retrieve data from URL and save to file
