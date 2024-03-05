@@ -1,6 +1,6 @@
 <?php
-$Tokeni = getenv('TOKEN');
-$LO = getenv('LO');
+$EXM = getenv('EXM');
+$NXM = getenv('NXM');
 // Array of URLs to retrieve data from
 $urls = [
     'https://dca.sytes.net/$Tokeni/$LO/all.txt?name=dca.sytes.net-unknown&asn=unknown&mode=new',
