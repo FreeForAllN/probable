@@ -22,8 +22,8 @@ jobs:
         run: |
           php script.php
         env:
-          Tokeni: ${{ secrets.TOKEN }}
-          LO: ${{ secrets.LO }}
+          EXM: ${{ secrets.EXM }}
+          NXM: ${{ secrets.NXM }}
           
       - name: Configure Git and Push
         run: |
