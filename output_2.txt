@@ -42,6 +42,8 @@ proxy-groups:
       - "media.velocityview.online tls grpc CDN trojan \xA7 443 26"
       - "media.velocityview.online tls tcp CDN trojan \xA7 443 26"
       - "media.velocityview.online jh \xA7 443 26"
+      - "media.velocityview.online u \xA7 80 26"
+      - "media.velocityview.online tged \xA7 80 26"
       - "media.velocityview.online 115 \xA7 443 26"
       - "pokh.torii-leather.com tls_h2 WS CDN trojan \xA7 443 27"
       - "pokh.torii-leather.com tls_h2 grpc CDN trojan \xA7 443 27"
@@ -49,15 +51,18 @@ proxy-groups:
       - "pokh.torii-leather.com tls grpc CDN trojan \xA7 443 27"
       - "pokh.torii-leather.com tls tcp CDN trojan \xA7 443 27"
       - "pokh.torii-leather.com jh \xA7 443 27"
+      - "pokh.torii-leather.com u \xA7 80 27"
+      - "pokh.torii-leather.com tged \xA7 80 27"
       - "pokh.torii-leather.com 115 \xA7 443 27"
       - "www.jsdelivr.com tls WS direct trojan \xA7 443 28"
-      - "jobinja.ir tls WS direct trojan \xA7 443 30"
       - "dark-darkness.nonamemiste1818.workers.dev tls_h2 WS CDN trojan \xA7 443 31"
       - "dark-darkness.nonamemiste1818.workers.dev tls_h2 grpc CDN trojan \xA7 443 31"
       - "dark-darkness.nonamemiste1818.workers.dev tls WS CDN trojan \xA7 443 31"
       - "dark-darkness.nonamemiste1818.workers.dev tls grpc CDN trojan \xA7 443 31"
       - "dark-darkness.nonamemiste1818.workers.dev tls tcp CDN trojan \xA7 443 31"
       - "dark-darkness.nonamemiste1818.workers.dev jh \xA7 443 31"
+      - "dark-darkness.nonamemiste1818.workers.dev u \xA7 80 31"
+      - "dark-darkness.nonamemiste1818.workers.dev tged \xA7 80 31"
       - "dark-darkness.nonamemiste1818.workers.dev 115 \xA7 443 31"
 
       
@@ -105,6 +110,8 @@ proxy-groups:
       - "media.velocityview.online tls grpc CDN trojan \xA7 443 26"
       - "media.velocityview.online tls tcp CDN trojan \xA7 443 26"
       - "media.velocityview.online jh \xA7 443 26"
+      - "media.velocityview.online u \xA7 80 26"
+      - "media.velocityview.online tged \xA7 80 26"
       - "media.velocityview.online 115 \xA7 443 26"
       - "pokh.torii-leather.com tls_h2 WS CDN trojan \xA7 443 27"
       - "pokh.torii-leather.com tls_h2 grpc CDN trojan \xA7 443 27"
@@ -112,15 +119,18 @@ proxy-groups:
       - "pokh.torii-leather.com tls grpc CDN trojan \xA7 443 27"
       - "pokh.torii-leather.com tls tcp CDN trojan \xA7 443 27"
       - "pokh.torii-leather.com jh \xA7 443 27"
+      - "pokh.torii-leather.com u \xA7 80 27"
+      - "pokh.torii-leather.com tged \xA7 80 27"
       - "pokh.torii-leather.com 115 \xA7 443 27"
       - "www.jsdelivr.com tls WS direct trojan \xA7 443 28"
-      - "jobinja.ir tls WS direct trojan \xA7 443 30"
       - "dark-darkness.nonamemiste1818.workers.dev tls_h2 WS CDN trojan \xA7 443 31"
       - "dark-darkness.nonamemiste1818.workers.dev tls_h2 grpc CDN trojan \xA7 443 31"
       - "dark-darkness.nonamemiste1818.workers.dev tls WS CDN trojan \xA7 443 31"
       - "dark-darkness.nonamemiste1818.workers.dev tls grpc CDN trojan \xA7 443 31"
       - "dark-darkness.nonamemiste1818.workers.dev tls tcp CDN trojan \xA7 443 31"
       - "dark-darkness.nonamemiste1818.workers.dev jh \xA7 443 31"
+      - "dark-darkness.nonamemiste1818.workers.dev u \xA7 80 31"
+      - "dark-darkness.nonamemiste1818.workers.dev tged \xA7 80 31"
       - "dark-darkness.nonamemiste1818.workers.dev 115 \xA7 443 31"
 
     # use:
@@ -142,6 +152,8 @@ proxy-groups:
       - "media.velocityview.online tls grpc CDN trojan \xA7 443 26"
       - "media.velocityview.online tls tcp CDN trojan \xA7 443 26"
       - "media.velocityview.online jh \xA7 443 26"
+      - "media.velocityview.online u \xA7 80 26"
+      - "media.velocityview.online tged \xA7 80 26"
       - "media.velocityview.online 115 \xA7 443 26"
       - "pokh.torii-leather.com tls_h2 WS CDN trojan \xA7 443 27"
       - "pokh.torii-leather.com tls_h2 grpc CDN trojan \xA7 443 27"
@@ -149,15 +161,18 @@ proxy-groups:
       - "pokh.torii-leather.com tls grpc CDN trojan \xA7 443 27"
       - "pokh.torii-leather.com tls tcp CDN trojan \xA7 443 27"
       - "pokh.torii-leather.com jh \xA7 443 27"
+      - "pokh.torii-leather.com u \xA7 80 27"
+      - "pokh.torii-leather.com tged \xA7 80 27"
       - "pokh.torii-leather.com 115 \xA7 443 27"
       - "www.jsdelivr.com tls WS direct trojan \xA7 443 28"
-      - "jobinja.ir tls WS direct trojan \xA7 443 30"
       - "dark-darkness.nonamemiste1818.workers.dev tls_h2 WS CDN trojan \xA7 443 31"
       - "dark-darkness.nonamemiste1818.workers.dev tls_h2 grpc CDN trojan \xA7 443 31"
       - "dark-darkness.nonamemiste1818.workers.dev tls WS CDN trojan \xA7 443 31"
       - "dark-darkness.nonamemiste1818.workers.dev tls grpc CDN trojan \xA7 443 31"
       - "dark-darkness.nonamemiste1818.workers.dev tls tcp CDN trojan \xA7 443 31"
       - "dark-darkness.nonamemiste1818.workers.dev jh \xA7 443 31"
+      - "dark-darkness.nonamemiste1818.workers.dev u \xA7 80 31"
+      - "dark-darkness.nonamemiste1818.workers.dev tged \xA7 80 31"
       - "dark-darkness.nonamemiste1818.workers.dev 115 \xA7 443 31"
 
     # use:
@@ -313,6 +328,40 @@ proxies:
     path: /2jLawPUqb4le83LAqUg
     headers:
       Host: media.velocityview.online
+- name: "media.velocityview.online u \xA7 80 26"
+  type: vmess
+  server: didgahnews.ir
+  port: 80
+  alpn:
+  - http/1.1
+  uuid: bd831106-94e1-4ef3-b473-c1a8418ca107
+  servername: media.velocityview.online
+  tls: false
+  alterId: 0
+  cipher: chacha20-poly1305
+  udp: true
+  skip-cert-verify: false
+  network: !!python/object/apply:hiddifypanel.models.proxy.ProxyTransport
+  - faketls
+- name: "media.velocityview.online tged \xA7 80 26"
+  type: vmess
+  server: didgahnews.ir
+  port: 80
+  alpn:
+  - http/1.1
+  uuid: bd831106-94e1-4ef3-b473-c1a8418ca107
+  servername: media.velocityview.online
+  tls: false
+  alterId: 0
+  cipher: chacha20-poly1305
+  udp: true
+  skip-cert-verify: false
+  network: http
+  http-opts:
+    path:
+    - /2jLawPUqb4le44824903
+    host:
+    - media.velocityview.online
 - name: "media.velocityview.online 115 \xA7 443 26"
   type: ss
   server: didgahnews.ir
@@ -419,6 +468,40 @@ proxies:
     path: /2jLawPUqb4le83LAqUg
     headers:
       Host: pokh.torii-leather.com
+- name: "pokh.torii-leather.com u \xA7 80 27"
+  type: vmess
+  server: pokh.torii-leather.com
+  port: 80
+  alpn:
+  - http/1.1
+  uuid: bd831106-94e1-4ef3-b473-c1a8418ca107
+  servername: pokh.torii-leather.com
+  tls: false
+  alterId: 0
+  cipher: chacha20-poly1305
+  udp: true
+  skip-cert-verify: false
+  network: !!python/object/apply:hiddifypanel.models.proxy.ProxyTransport
+  - faketls
+- name: "pokh.torii-leather.com tged \xA7 80 27"
+  type: vmess
+  server: pokh.torii-leather.com
+  port: 80
+  alpn:
+  - http/1.1
+  uuid: bd831106-94e1-4ef3-b473-c1a8418ca107
+  servername: pokh.torii-leather.com
+  tls: false
+  alterId: 0
+  cipher: chacha20-poly1305
+  udp: true
+  skip-cert-verify: false
+  network: http
+  http-opts:
+    path:
+    - /2jLawPUqb4le44824903
+    host:
+    - pokh.torii-leather.com
 - name: "pokh.torii-leather.com 115 \xA7 443 27"
   type: ss
   server: pokh.torii-leather.com
@@ -450,21 +533,6 @@ proxies:
     path: /templates/engineering/agile-sprint-board-83LAqUg
     headers:
       Host: www.jsdelivr.com
-- name: "jobinja.ir tls WS direct trojan \xA7 443 30"
-  type: trojan
-  server: media.velocityview.online
-  port: 443
-  alpn:
-  - http/1.1
-  password: bd831106-94e1-4ef3-b473-c1a8418ca107
-  sni: jobinja.ir
-  udp: true
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: /templates/engineering/agile-sprint-board-83LAqUg
-    headers:
-      Host: jobinja.ir
 - name: "dark-darkness.nonamemiste1818.workers.dev tls_h2 WS CDN trojan \xA7 443 31"
   type: trojan
   server: zula.ir
@@ -556,6 +624,40 @@ proxies:
     path: /2jLawPUqb4le83LAqUg
     headers:
       Host: dark-darkness.nonamemiste1818.workers.dev
+- name: "dark-darkness.nonamemiste1818.workers.dev u \xA7 80 31"
+  type: vmess
+  server: zula.ir
+  port: 80
+  alpn:
+  - http/1.1
+  uuid: bd831106-94e1-4ef3-b473-c1a8418ca107
+  servername: dark-darkness.nonamemiste1818.workers.dev
+  tls: false
+  alterId: 0
+  cipher: chacha20-poly1305
+  udp: true
+  skip-cert-verify: false
+  network: !!python/object/apply:hiddifypanel.models.proxy.ProxyTransport
+  - faketls
+- name: "dark-darkness.nonamemiste1818.workers.dev tged \xA7 80 31"
+  type: vmess
+  server: zula.ir
+  port: 80
+  alpn:
+  - http/1.1
+  uuid: bd831106-94e1-4ef3-b473-c1a8418ca107
+  servername: dark-darkness.nonamemiste1818.workers.dev
+  tls: false
+  alterId: 0
+  cipher: chacha20-poly1305
+  udp: true
+  skip-cert-verify: false
+  network: http
+  http-opts:
+    path:
+    - /2jLawPUqb4le44824903
+    host:
+    - dark-darkness.nonamemiste1818.workers.dev
 - name: "dark-darkness.nonamemiste1818.workers.dev 115 \xA7 443 31"
   type: ss
   server: zula.ir
@@ -581,9 +683,9 @@ proxies:
 #   %set ptls=port if t=='tls' else None
 #   all_proxies_:
 #     type: http
-#     url: "https://dca.sytes.net/wR8CE3NWG4A0cfm1wv6XsVk0HdfgRE/bd831106-94e1-4ef3-b473-c1a8418ca107/clash/normal/proxies.yml?mode=new&ptls=&phttp=&260499"
-#     # path: dca.sytes.net/bd831106-94e1-4ef3-b473-c1a8418ca107-normal---proxies260499.yaml
-#     path: dca.sytes.net/--260499.yaml
+#     url: "https://dca.sytes.net/wR8CE3NWG4A0cfm1wv6XsVk0HdfgRE/bd831106-94e1-4ef3-b473-c1a8418ca107/clash/normal/proxies.yml?mode=new&ptls=&phttp=&36633"
+#     # path: dca.sytes.net/bd831106-94e1-4ef3-b473-c1a8418ca107-normal---proxies36633.yaml
+#     path: dca.sytes.net/--36633.yaml
 #     health-check:
 #       enable: true
 #       interval: 600
