@@ -225,7 +225,7 @@ proxies:
       Host: dca.sytes.net
 - name: "media.velocityview.online tls_h2 WS CDN trojan \xA7 443 26"
   type: trojan
-  server: www.jsdelivr.com
+  server: didgahnews.ir
   port: 443
   alpn:
   - h2
@@ -240,7 +240,7 @@ proxies:
       Host: media.velocityview.online
 - name: "media.velocityview.online tls_h2 grpc CDN trojan \xA7 443 26"
   type: trojan
-  server: www.jsdelivr.com
+  server: didgahnews.ir
   port: 443
   alpn:
   - h2
@@ -253,7 +253,7 @@ proxies:
     grpc-service-name: templates/engineering/agile-sprint-board-pOJ0Ut1nkwu
 - name: "media.velocityview.online tls WS CDN trojan \xA7 443 26"
   type: trojan
-  server: www.jsdelivr.com
+  server: didgahnews.ir
   port: 443
   alpn:
   - http/1.1
@@ -268,7 +268,7 @@ proxies:
       Host: media.velocityview.online
 - name: "media.velocityview.online tls grpc CDN trojan \xA7 443 26"
   type: trojan
-  server: www.jsdelivr.com
+  server: didgahnews.ir
   port: 443
   alpn:
   - http/1.1
@@ -281,7 +281,7 @@ proxies:
     grpc-service-name: templates/engineering/agile-sprint-board-pOJ0Ut1nkwu
 - name: "media.velocityview.online tls tcp CDN trojan \xA7 443 26"
   type: trojan
-  server: www.jsdelivr.com
+  server: didgahnews.ir
   port: 443
   alpn:
   - http/1.1
@@ -297,7 +297,7 @@ proxies:
     - media.velocityview.online
 - name: "media.velocityview.online jh \xA7 443 26"
   type: vmess
-  server: www.jsdelivr.com
+  server: didgahnews.ir
   port: 443
   alpn:
   - http/1.1
@@ -315,7 +315,7 @@ proxies:
       Host: media.velocityview.online
 - name: "media.velocityview.online 115 \xA7 443 26"
   type: ss
-  server: www.jsdelivr.com
+  server: didgahnews.ir
   port: 443
   alpn:
   - http/1.1
@@ -581,9 +581,9 @@ proxies:
 #   %set ptls=port if t=='tls' else None
 #   all_proxies_:
 #     type: http
-#     url: "https://dca.sytes.net/wR8CE3NWG4A0cfm1wv6XsVk0HdfgRE/bd831106-94e1-4ef3-b473-c1a8418ca107/clash/normal/proxies.yml?mode=new&ptls=&phttp=&726755"
-#     # path: dca.sytes.net/bd831106-94e1-4ef3-b473-c1a8418ca107-normal---proxies726755.yaml
-#     path: dca.sytes.net/--726755.yaml
+#     url: "https://dca.sytes.net/wR8CE3NWG4A0cfm1wv6XsVk0HdfgRE/bd831106-94e1-4ef3-b473-c1a8418ca107/clash/normal/proxies.yml?mode=new&ptls=&phttp=&260499"
+#     # path: dca.sytes.net/bd831106-94e1-4ef3-b473-c1a8418ca107-normal---proxies260499.yaml
+#     path: dca.sytes.net/--260499.yaml
 #     health-check:
 #       enable: true
 #       interval: 600
