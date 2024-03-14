@@ -832,7 +832,7 @@ proxies:
       Host: exclusive-access.streaming.movies-portal.sojda.org
 - name: "pokh.torii-leather.com tls_h2 WS CDN v2ray \xA7 443 15"
   type: ss
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - h2
@@ -848,7 +848,7 @@ proxies:
     path: /EZweuGcO83LAqUg
 - name: "pokh.torii-leather.com tls_h2 WS CDN trojan \xA7 443 15"
   type: trojan
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - h2
@@ -863,7 +863,7 @@ proxies:
       Host: pokh.torii-leather.com
 - name: "pokh.torii-leather.com tls_h2 WS CDN vmess \xA7 443 15"
   type: vmess
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - h2
@@ -881,7 +881,7 @@ proxies:
       Host: pokh.torii-leather.com
 - name: "pokh.torii-leather.com tls_h2 grpc CDN trojan \xA7 443 15"
   type: trojan
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - h2
@@ -894,7 +894,7 @@ proxies:
     grpc-service-name: templates/engineering/agile-sprint-board-pOJ0Ut1nkwu
 - name: "pokh.torii-leather.com tls_h2 grpc CDN vmess \xA7 443 15"
   type: vmess
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - h2
@@ -910,7 +910,7 @@ proxies:
     grpc-service-name: 2jLawPUqb4lepOJ0Ut1nkwu
 - name: "pokh.torii-leather.com tls WS CDN v2ray \xA7 443 15"
   type: ss
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - http/1.1
@@ -926,7 +926,7 @@ proxies:
     path: /EZweuGcO83LAqUg
 - name: "pokh.torii-leather.com tls WS CDN trojan \xA7 443 15"
   type: trojan
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - http/1.1
@@ -941,7 +941,7 @@ proxies:
       Host: pokh.torii-leather.com
 - name: "pokh.torii-leather.com tls WS CDN vmess \xA7 443 15"
   type: vmess
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - http/1.1
@@ -959,7 +959,7 @@ proxies:
       Host: pokh.torii-leather.com
 - name: "pokh.torii-leather.com tls grpc CDN trojan \xA7 443 15"
   type: trojan
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - h2
@@ -972,7 +972,7 @@ proxies:
     grpc-service-name: templates/engineering/agile-sprint-board-pOJ0Ut1nkwu
 - name: "pokh.torii-leather.com tls grpc CDN vmess \xA7 443 15"
   type: vmess
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - h2
@@ -988,7 +988,7 @@ proxies:
     grpc-service-name: 2jLawPUqb4lepOJ0Ut1nkwu
 - name: "pokh.torii-leather.com tls tcp CDN trojan \xA7 443 15"
   type: trojan
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - http/1.1
@@ -1004,7 +1004,7 @@ proxies:
     - pokh.torii-leather.com
 - name: "pokh.torii-leather.com jh \xA7 443 15"
   type: vmess
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - http/1.1
@@ -1022,7 +1022,7 @@ proxies:
       Host: pokh.torii-leather.com
 - name: "pokh.torii-leather.com 115 \xA7 443 15"
   type: ss
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - http/1.1
@@ -1678,9 +1678,9 @@ proxies:
 #   %set ptls=port if t=='tls' else None
 #   all_proxies_:
 #     type: http
-#     url: "https://dca.sytes.net/wR8CE3NWG4A0cfm1wv6XsVk0HdfgRE/bd831106-94e1-4ef3-b473-c1a8418ca107/clash/normal/proxies.yml?mode=new&ptls=&phttp=&517125"
-#     # path: dca.sytes.net/bd831106-94e1-4ef3-b473-c1a8418ca107-normal---proxies517125.yaml
-#     path: dca.sytes.net/--517125.yaml
+#     url: "https://dca.sytes.net/wR8CE3NWG4A0cfm1wv6XsVk0HdfgRE/bd831106-94e1-4ef3-b473-c1a8418ca107/clash/normal/proxies.yml?mode=new&ptls=&phttp=&343329"
+#     # path: dca.sytes.net/bd831106-94e1-4ef3-b473-c1a8418ca107-normal---proxies343329.yaml
+#     path: dca.sytes.net/--343329.yaml
 #     health-check:
 #       enable: true
 #       interval: 600
