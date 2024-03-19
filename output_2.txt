@@ -674,9 +674,9 @@ proxies:
 #   %set ptls=port if t=='tls' else None
 #   all_proxies_:
 #     type: http
-#     url: "https://dca.sytes.net/wR8CE3NWG4A0cfm1wv6XsVk0HdfgRE/bd831106-94e1-4ef3-b473-c1a8418ca107/clash/normal/proxies.yml?mode=new&ptls=&phttp=&140938"
-#     # path: dca.sytes.net/bd831106-94e1-4ef3-b473-c1a8418ca107-normal---proxies140938.yaml
-#     path: dca.sytes.net/--140938.yaml
+#     url: "https://dca.sytes.net/wR8CE3NWG4A0cfm1wv6XsVk0HdfgRE/bd831106-94e1-4ef3-b473-c1a8418ca107/clash/normal/proxies.yml?mode=new&ptls=&phttp=&999870"
+#     # path: dca.sytes.net/bd831106-94e1-4ef3-b473-c1a8418ca107-normal---proxies999870.yaml
+#     path: dca.sytes.net/--999870.yaml
 #     health-check:
 #       enable: true
 #       interval: 600
