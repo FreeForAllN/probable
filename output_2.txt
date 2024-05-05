@@ -221,7 +221,7 @@ proxy-groups:
 proxies:
 - name: "media.velocityview.online tls_h2 WS CDN trojan \xA7 443 8"
   type: trojan
-  server: zula.ir
+  server: www.jsdelivr.com
   port: 443
   alpn:
   - h2
@@ -236,7 +236,7 @@ proxies:
       Host: media.velocityview.online
 - name: "media.velocityview.online tls_h2 WS CDN vmess \xA7 443 8"
   type: vmess
-  server: zula.ir
+  server: www.jsdelivr.com
   port: 443
   alpn:
   - h2
@@ -254,7 +254,7 @@ proxies:
       Host: media.velocityview.online
 - name: "media.velocityview.online tls_h2 grpc CDN trojan \xA7 443 8"
   type: trojan
-  server: zula.ir
+  server: www.jsdelivr.com
   port: 443
   alpn:
   - h2
@@ -267,7 +267,7 @@ proxies:
     grpc-service-name: templates/engineering/agile-sprint-board-pOJ0Ut1nkwu
 - name: "media.velocityview.online tls_h2 grpc CDN vmess \xA7 443 8"
   type: vmess
-  server: zula.ir
+  server: www.jsdelivr.com
   port: 443
   alpn:
   - h2
@@ -283,7 +283,7 @@ proxies:
     grpc-service-name: 2jLawPUqb4lepOJ0Ut1nkwu
 - name: "media.velocityview.online tls WS CDN trojan \xA7 443 8"
   type: trojan
-  server: zula.ir
+  server: www.jsdelivr.com
   port: 443
   alpn:
   - http/1.1
@@ -298,7 +298,7 @@ proxies:
       Host: media.velocityview.online
 - name: "media.velocityview.online tls WS CDN vmess \xA7 443 8"
   type: vmess
-  server: zula.ir
+  server: www.jsdelivr.com
   port: 443
   alpn:
   - http/1.1
@@ -316,7 +316,7 @@ proxies:
       Host: media.velocityview.online
 - name: "media.velocityview.online tls grpc CDN trojan \xA7 443 8"
   type: trojan
-  server: zula.ir
+  server: www.jsdelivr.com
   port: 443
   alpn:
   - http/1.1
@@ -329,7 +329,7 @@ proxies:
     grpc-service-name: templates/engineering/agile-sprint-board-pOJ0Ut1nkwu
 - name: "media.velocityview.online tls grpc CDN vmess \xA7 443 8"
   type: vmess
-  server: zula.ir
+  server: www.jsdelivr.com
   port: 443
   alpn:
   - http/1.1
@@ -345,7 +345,7 @@ proxies:
     grpc-service-name: 2jLawPUqb4lepOJ0Ut1nkwu
 - name: "media.velocityview.online tls tcp CDN trojan \xA7 443 8"
   type: trojan
-  server: zula.ir
+  server: www.jsdelivr.com
   port: 443
   alpn:
   - http/1.1
@@ -361,7 +361,7 @@ proxies:
     - media.velocityview.online
 - name: "media.velocityview.online jh \xA7 443 8"
   type: vmess
-  server: zula.ir
+  server: www.jsdelivr.com
   port: 443
   alpn:
   - http/1.1
@@ -862,9 +862,9 @@ proxies:
 #   %set ptls=port if t=='tls' else None
 #   all_proxies_:
 #     type: http
-#     url: "https://dca.sytes.net/wR8CE3NWG4A0cfm1wv6XsVk0HdfgRE/bd831106-94e1-4ef3-b473-c1a8418ca107/clash/normal/proxies.yml?mode=new&ptls=&phttp=&573613"
-#     # path: dca.sytes.net/bd831106-94e1-4ef3-b473-c1a8418ca107-normal---proxies573613.yaml
-#     path: dca.sytes.net/--573613.yaml
+#     url: "https://dca.sytes.net/wR8CE3NWG4A0cfm1wv6XsVk0HdfgRE/bd831106-94e1-4ef3-b473-c1a8418ca107/clash/normal/proxies.yml?mode=new&ptls=&phttp=&956928"
+#     # path: dca.sytes.net/bd831106-94e1-4ef3-b473-c1a8418ca107-normal---proxies956928.yaml
+#     path: dca.sytes.net/--956928.yaml
 #     health-check:
 #       enable: true
 #       interval: 600
