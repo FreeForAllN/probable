@@ -72,19 +72,6 @@ proxy-groups:
       - "dark-darkness.nonamemiste1818.workers.dev jh \xA7 443 11"
       - "dark-darkness.nonamemiste1818.workers.dev test \xA7 80 11"
       - "dark-darkness.nonamemiste1818.workers.dev j \xA7 80 11"
-      - "dl3.med.ia.ifsec.cl tls_h2 WS CDN trojan \xA7 443 13"
-      - "dl3.med.ia.ifsec.cl tls_h2 WS CDN vmess \xA7 443 13"
-      - "dl3.med.ia.ifsec.cl tls_h2 grpc CDN trojan \xA7 443 13"
-      - "dl3.med.ia.ifsec.cl tls_h2 grpc CDN vmess \xA7 443 13"
-      - "dl3.med.ia.ifsec.cl tls WS CDN trojan \xA7 443 13"
-      - "dl3.med.ia.ifsec.cl tls WS CDN vmess \xA7 443 13"
-      - "dl3.med.ia.ifsec.cl tls grpc CDN trojan \xA7 443 13"
-      - "dl3.med.ia.ifsec.cl tls grpc CDN vmess \xA7 443 13"
-      - "dl3.med.ia.ifsec.cl http WS CDN vmess \xA7 80 13"
-      - "dl3.med.ia.ifsec.cl tls tcp CDN trojan \xA7 443 13"
-      - "dl3.med.ia.ifsec.cl jh \xA7 443 13"
-      - "dl3.med.ia.ifsec.cl test \xA7 80 13"
-      - "dl3.med.ia.ifsec.cl j \xA7 80 13"
 
       
     # use:
@@ -161,19 +148,6 @@ proxy-groups:
       - "dark-darkness.nonamemiste1818.workers.dev jh \xA7 443 11"
       - "dark-darkness.nonamemiste1818.workers.dev test \xA7 80 11"
       - "dark-darkness.nonamemiste1818.workers.dev j \xA7 80 11"
-      - "dl3.med.ia.ifsec.cl tls_h2 WS CDN trojan \xA7 443 13"
-      - "dl3.med.ia.ifsec.cl tls_h2 WS CDN vmess \xA7 443 13"
-      - "dl3.med.ia.ifsec.cl tls_h2 grpc CDN trojan \xA7 443 13"
-      - "dl3.med.ia.ifsec.cl tls_h2 grpc CDN vmess \xA7 443 13"
-      - "dl3.med.ia.ifsec.cl tls WS CDN trojan \xA7 443 13"
-      - "dl3.med.ia.ifsec.cl tls WS CDN vmess \xA7 443 13"
-      - "dl3.med.ia.ifsec.cl tls grpc CDN trojan \xA7 443 13"
-      - "dl3.med.ia.ifsec.cl tls grpc CDN vmess \xA7 443 13"
-      - "dl3.med.ia.ifsec.cl http WS CDN vmess \xA7 80 13"
-      - "dl3.med.ia.ifsec.cl tls tcp CDN trojan \xA7 443 13"
-      - "dl3.med.ia.ifsec.cl jh \xA7 443 13"
-      - "dl3.med.ia.ifsec.cl test \xA7 80 13"
-      - "dl3.med.ia.ifsec.cl j \xA7 80 13"
 
     # use:
     #   %for phttp in hconfigs[ConfigEnum.http_ports].split(',')
@@ -224,19 +198,6 @@ proxy-groups:
       - "dark-darkness.nonamemiste1818.workers.dev jh \xA7 443 11"
       - "dark-darkness.nonamemiste1818.workers.dev test \xA7 80 11"
       - "dark-darkness.nonamemiste1818.workers.dev j \xA7 80 11"
-      - "dl3.med.ia.ifsec.cl tls_h2 WS CDN trojan \xA7 443 13"
-      - "dl3.med.ia.ifsec.cl tls_h2 WS CDN vmess \xA7 443 13"
-      - "dl3.med.ia.ifsec.cl tls_h2 grpc CDN trojan \xA7 443 13"
-      - "dl3.med.ia.ifsec.cl tls_h2 grpc CDN vmess \xA7 443 13"
-      - "dl3.med.ia.ifsec.cl tls WS CDN trojan \xA7 443 13"
-      - "dl3.med.ia.ifsec.cl tls WS CDN vmess \xA7 443 13"
-      - "dl3.med.ia.ifsec.cl tls grpc CDN trojan \xA7 443 13"
-      - "dl3.med.ia.ifsec.cl tls grpc CDN vmess \xA7 443 13"
-      - "dl3.med.ia.ifsec.cl http WS CDN vmess \xA7 80 13"
-      - "dl3.med.ia.ifsec.cl tls tcp CDN trojan \xA7 443 13"
-      - "dl3.med.ia.ifsec.cl jh \xA7 443 13"
-      - "dl3.med.ia.ifsec.cl test \xA7 80 13"
-      - "dl3.med.ia.ifsec.cl j \xA7 80 13"
 
     # use:
     #   %for phttp in hconfigs[ConfigEnum.http_ports].split(',')
@@ -257,7 +218,7 @@ proxy-groups:
 proxies:
 - name: "media.velocityview.online tls_h2 WS CDN trojan \xA7 443 8"
   type: trojan
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - h2
@@ -272,7 +233,7 @@ proxies:
       Host: media.velocityview.online
 - name: "media.velocityview.online tls_h2 WS CDN vmess \xA7 443 8"
   type: vmess
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - h2
@@ -290,7 +251,7 @@ proxies:
       Host: media.velocityview.online
 - name: "media.velocityview.online tls_h2 grpc CDN trojan \xA7 443 8"
   type: trojan
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - h2
@@ -303,7 +264,7 @@ proxies:
     grpc-service-name: templates/engineering/agile-sprint-board-pOJ0Ut1nkwu
 - name: "media.velocityview.online tls_h2 grpc CDN vmess \xA7 443 8"
   type: vmess
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - h2
@@ -319,7 +280,7 @@ proxies:
     grpc-service-name: 2jLawPUqb4lepOJ0Ut1nkwu
 - name: "media.velocityview.online tls WS CDN trojan \xA7 443 8"
   type: trojan
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - http/1.1
@@ -334,7 +295,7 @@ proxies:
       Host: media.velocityview.online
 - name: "media.velocityview.online tls WS CDN vmess \xA7 443 8"
   type: vmess
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - http/1.1
@@ -352,7 +313,7 @@ proxies:
       Host: media.velocityview.online
 - name: "media.velocityview.online tls grpc CDN trojan \xA7 443 8"
   type: trojan
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - http/1.1
@@ -365,7 +326,7 @@ proxies:
     grpc-service-name: templates/engineering/agile-sprint-board-pOJ0Ut1nkwu
 - name: "media.velocityview.online tls grpc CDN vmess \xA7 443 8"
   type: vmess
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - http/1.1
@@ -381,7 +342,7 @@ proxies:
     grpc-service-name: 2jLawPUqb4lepOJ0Ut1nkwu
 - name: "media.velocityview.online http WS CDN vmess \xA7 80 8"
   type: vmess
-  server: zula.ir
+  server: didgahnews.ir
   port: 80
   alpn:
   - http/1.1
@@ -399,7 +360,7 @@ proxies:
       Host: media.velocityview.online
 - name: "media.velocityview.online tls tcp CDN trojan \xA7 443 8"
   type: trojan
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - http/1.1
@@ -415,7 +376,7 @@ proxies:
     - media.velocityview.online
 - name: "media.velocityview.online jh \xA7 443 8"
   type: vmess
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - http/1.1
@@ -433,7 +394,7 @@ proxies:
       Host: media.velocityview.online
 - name: "media.velocityview.online test \xA7 80 8"
   type: vmess
-  server: zula.ir
+  server: didgahnews.ir
   port: 80
   alpn:
   - http/1.1
@@ -449,7 +410,7 @@ proxies:
     grpc-service-name: 2jLawPUqb4lepOJ0Ut1nkwu
 - name: "media.velocityview.online j \xA7 80 8"
   type: vmess
-  server: zula.ir
+  server: didgahnews.ir
   port: 80
   alpn:
   - http/1.1
@@ -677,7 +638,7 @@ proxies:
       Host: pokh.torii-leather.com
 - name: "dark-darkness.nonamemiste1818.workers.dev tls_h2 WS CDN trojan \xA7 443 11"
   type: trojan
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - h2
@@ -692,7 +653,7 @@ proxies:
       Host: dark-darkness.nonamemiste1818.workers.dev
 - name: "dark-darkness.nonamemiste1818.workers.dev tls_h2 WS CDN vmess \xA7 443 11"
   type: vmess
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - h2
@@ -711,7 +672,7 @@ proxies:
 - name: "dark-darkness.nonamemiste1818.workers.dev tls_h2 grpc CDN trojan \xA7 443\
     \ 11"
   type: trojan
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - h2
@@ -725,7 +686,7 @@ proxies:
 - name: "dark-darkness.nonamemiste1818.workers.dev tls_h2 grpc CDN vmess \xA7 443\
     \ 11"
   type: vmess
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - h2
@@ -741,7 +702,7 @@ proxies:
     grpc-service-name: 2jLawPUqb4lepOJ0Ut1nkwu
 - name: "dark-darkness.nonamemiste1818.workers.dev tls WS CDN trojan \xA7 443 11"
   type: trojan
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - http/1.1
@@ -756,7 +717,7 @@ proxies:
       Host: dark-darkness.nonamemiste1818.workers.dev
 - name: "dark-darkness.nonamemiste1818.workers.dev tls WS CDN vmess \xA7 443 11"
   type: vmess
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - http/1.1
@@ -774,7 +735,7 @@ proxies:
       Host: dark-darkness.nonamemiste1818.workers.dev
 - name: "dark-darkness.nonamemiste1818.workers.dev tls grpc CDN trojan \xA7 443 11"
   type: trojan
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - http/1.1
@@ -787,7 +748,7 @@ proxies:
     grpc-service-name: templates/engineering/agile-sprint-board-pOJ0Ut1nkwu
 - name: "dark-darkness.nonamemiste1818.workers.dev tls grpc CDN vmess \xA7 443 11"
   type: vmess
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - http/1.1
@@ -803,7 +764,7 @@ proxies:
     grpc-service-name: 2jLawPUqb4lepOJ0Ut1nkwu
 - name: "dark-darkness.nonamemiste1818.workers.dev http WS CDN vmess \xA7 80 11"
   type: vmess
-  server: zula.ir
+  server: didgahnews.ir
   port: 80
   alpn:
   - http/1.1
@@ -821,7 +782,7 @@ proxies:
       Host: dark-darkness.nonamemiste1818.workers.dev
 - name: "dark-darkness.nonamemiste1818.workers.dev tls tcp CDN trojan \xA7 443 11"
   type: trojan
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - http/1.1
@@ -837,7 +798,7 @@ proxies:
     - dark-darkness.nonamemiste1818.workers.dev
 - name: "dark-darkness.nonamemiste1818.workers.dev jh \xA7 443 11"
   type: vmess
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - http/1.1
@@ -855,7 +816,7 @@ proxies:
       Host: dark-darkness.nonamemiste1818.workers.dev
 - name: "dark-darkness.nonamemiste1818.workers.dev test \xA7 80 11"
   type: vmess
-  server: zula.ir
+  server: didgahnews.ir
   port: 80
   alpn:
   - http/1.1
@@ -871,7 +832,7 @@ proxies:
     grpc-service-name: 2jLawPUqb4lepOJ0Ut1nkwu
 - name: "dark-darkness.nonamemiste1818.workers.dev j \xA7 80 11"
   type: vmess
-  server: zula.ir
+  server: didgahnews.ir
   port: 80
   alpn:
   - http/1.1
@@ -887,216 +848,6 @@ proxies:
     path: /2jLawPUqb4le83LAqUg
     headers:
       Host: dark-darkness.nonamemiste1818.workers.dev
-- name: "dl3.med.ia.ifsec.cl tls_h2 WS CDN trojan \xA7 443 13"
-  type: trojan
-  server: dl3.med.ia.ifsec.cl
-  port: 443
-  alpn:
-  - h2
-  password: bd831106-94e1-4ef3-b473-c1a8418ca107
-  sni: dl3.med.ia.ifsec.cl
-  udp: true
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: /templates/engineering/agile-sprint-board-83LAqUg
-    headers:
-      Host: dl3.med.ia.ifsec.cl
-- name: "dl3.med.ia.ifsec.cl tls_h2 WS CDN vmess \xA7 443 13"
-  type: vmess
-  server: dl3.med.ia.ifsec.cl
-  port: 443
-  alpn:
-  - h2
-  uuid: bd831106-94e1-4ef3-b473-c1a8418ca107
-  servername: dl3.med.ia.ifsec.cl
-  tls: true
-  alterId: 0
-  cipher: chacha20-poly1305
-  udp: true
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: /2jLawPUqb4le83LAqUg
-    headers:
-      Host: dl3.med.ia.ifsec.cl
-- name: "dl3.med.ia.ifsec.cl tls_h2 grpc CDN trojan \xA7 443 13"
-  type: trojan
-  server: dl3.med.ia.ifsec.cl
-  port: 443
-  alpn:
-  - h2
-  password: bd831106-94e1-4ef3-b473-c1a8418ca107
-  sni: dl3.med.ia.ifsec.cl
-  udp: true
-  skip-cert-verify: false
-  network: grpc
-  grpc-opts:
-    grpc-service-name: templates/engineering/agile-sprint-board-pOJ0Ut1nkwu
-- name: "dl3.med.ia.ifsec.cl tls_h2 grpc CDN vmess \xA7 443 13"
-  type: vmess
-  server: dl3.med.ia.ifsec.cl
-  port: 443
-  alpn:
-  - h2
-  uuid: bd831106-94e1-4ef3-b473-c1a8418ca107
-  servername: dl3.med.ia.ifsec.cl
-  tls: true
-  alterId: 0
-  cipher: chacha20-poly1305
-  udp: true
-  skip-cert-verify: false
-  network: grpc
-  grpc-opts:
-    grpc-service-name: 2jLawPUqb4lepOJ0Ut1nkwu
-- name: "dl3.med.ia.ifsec.cl tls WS CDN trojan \xA7 443 13"
-  type: trojan
-  server: dl3.med.ia.ifsec.cl
-  port: 443
-  alpn:
-  - http/1.1
-  password: bd831106-94e1-4ef3-b473-c1a8418ca107
-  sni: dl3.med.ia.ifsec.cl
-  udp: true
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: /templates/engineering/agile-sprint-board-83LAqUg
-    headers:
-      Host: dl3.med.ia.ifsec.cl
-- name: "dl3.med.ia.ifsec.cl tls WS CDN vmess \xA7 443 13"
-  type: vmess
-  server: dl3.med.ia.ifsec.cl
-  port: 443
-  alpn:
-  - http/1.1
-  uuid: bd831106-94e1-4ef3-b473-c1a8418ca107
-  servername: dl3.med.ia.ifsec.cl
-  tls: true
-  alterId: 0
-  cipher: chacha20-poly1305
-  udp: true
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: /2jLawPUqb4le83LAqUg
-    headers:
-      Host: dl3.med.ia.ifsec.cl
-- name: "dl3.med.ia.ifsec.cl tls grpc CDN trojan \xA7 443 13"
-  type: trojan
-  server: dl3.med.ia.ifsec.cl
-  port: 443
-  alpn:
-  - http/1.1
-  password: bd831106-94e1-4ef3-b473-c1a8418ca107
-  sni: dl3.med.ia.ifsec.cl
-  udp: true
-  skip-cert-verify: false
-  network: grpc
-  grpc-opts:
-    grpc-service-name: templates/engineering/agile-sprint-board-pOJ0Ut1nkwu
-- name: "dl3.med.ia.ifsec.cl tls grpc CDN vmess \xA7 443 13"
-  type: vmess
-  server: dl3.med.ia.ifsec.cl
-  port: 443
-  alpn:
-  - http/1.1
-  uuid: bd831106-94e1-4ef3-b473-c1a8418ca107
-  servername: dl3.med.ia.ifsec.cl
-  tls: true
-  alterId: 0
-  cipher: chacha20-poly1305
-  udp: true
-  skip-cert-verify: false
-  network: grpc
-  grpc-opts:
-    grpc-service-name: 2jLawPUqb4lepOJ0Ut1nkwu
-- name: "dl3.med.ia.ifsec.cl http WS CDN vmess \xA7 80 13"
-  type: vmess
-  server: dl3.med.ia.ifsec.cl
-  port: 80
-  alpn:
-  - http/1.1
-  uuid: bd831106-94e1-4ef3-b473-c1a8418ca107
-  servername: dl3.med.ia.ifsec.cl
-  tls: false
-  alterId: 0
-  cipher: chacha20-poly1305
-  udp: true
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: /2jLawPUqb4le83LAqUg
-    headers:
-      Host: dl3.med.ia.ifsec.cl
-- name: "dl3.med.ia.ifsec.cl tls tcp CDN trojan \xA7 443 13"
-  type: trojan
-  server: dl3.med.ia.ifsec.cl
-  port: 443
-  alpn:
-  - http/1.1
-  password: bd831106-94e1-4ef3-b473-c1a8418ca107
-  sni: dl3.med.ia.ifsec.cl
-  udp: true
-  skip-cert-verify: false
-  network: http
-  http-opts:
-    path:
-    - /templates/engineering/agile-sprint-board-44824903
-    host:
-    - dl3.med.ia.ifsec.cl
-- name: "dl3.med.ia.ifsec.cl jh \xA7 443 13"
-  type: vmess
-  server: dl3.med.ia.ifsec.cl
-  port: 443
-  alpn:
-  - http/1.1
-  uuid: bd831106-94e1-4ef3-b473-c1a8418ca107
-  servername: dl3.med.ia.ifsec.cl
-  tls: true
-  alterId: 0
-  cipher: chacha20-poly1305
-  udp: true
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: /2jLawPUqb4le83LAqUg
-    headers:
-      Host: dl3.med.ia.ifsec.cl
-- name: "dl3.med.ia.ifsec.cl test \xA7 80 13"
-  type: vmess
-  server: dl3.med.ia.ifsec.cl
-  port: 80
-  alpn:
-  - http/1.1
-  uuid: bd831106-94e1-4ef3-b473-c1a8418ca107
-  servername: dl3.med.ia.ifsec.cl
-  tls: false
-  alterId: 0
-  cipher: chacha20-poly1305
-  udp: true
-  skip-cert-verify: false
-  network: grpc
-  grpc-opts:
-    grpc-service-name: 2jLawPUqb4lepOJ0Ut1nkwu
-- name: "dl3.med.ia.ifsec.cl j \xA7 80 13"
-  type: vmess
-  server: dl3.med.ia.ifsec.cl
-  port: 80
-  alpn:
-  - http/1.1
-  uuid: bd831106-94e1-4ef3-b473-c1a8418ca107
-  servername: dl3.med.ia.ifsec.cl
-  tls: false
-  alterId: 0
-  cipher: chacha20-poly1305
-  udp: true
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: /2jLawPUqb4le83LAqUg
-    headers:
-      Host: dl3.med.ia.ifsec.cl
 
 
 # proxy-providers:
@@ -1106,9 +857,9 @@ proxies:
 #   %set ptls=port if t=='tls' else None
 #   all_proxies_:
 #     type: http
-#     url: "https://dca.sytes.net/wR8CE3NWG4A0cfm1wv6XsVk0HdfgRE/bd831106-94e1-4ef3-b473-c1a8418ca107/clash/normal/proxies.yml?mode=new&ptls=&phttp=&67193"
-#     # path: dca.sytes.net/bd831106-94e1-4ef3-b473-c1a8418ca107-normal---proxies67193.yaml
-#     path: dca.sytes.net/--67193.yaml
+#     url: "https://dca.sytes.net/wR8CE3NWG4A0cfm1wv6XsVk0HdfgRE/bd831106-94e1-4ef3-b473-c1a8418ca107/clash/normal/proxies.yml?mode=new&ptls=&phttp=&960664"
+#     # path: dca.sytes.net/bd831106-94e1-4ef3-b473-c1a8418ca107-normal---proxies960664.yaml
+#     path: dca.sytes.net/--960664.yaml
 #     health-check:
 #       enable: true
 #       interval: 600
