@@ -233,7 +233,7 @@ proxy-groups:
 proxies:
 - name: "M tls_h2 WS CDN trojan \xA7 443 8"
   type: trojan
-  server: www.jsdelivr.com
+  server: didgahnews.ir
   port: 443
   alpn:
   - h2
@@ -248,7 +248,7 @@ proxies:
       Host: media.velocityview.online
 - name: "M tls_h2 WS CDN vmess \xA7 443 8"
   type: vmess
-  server: www.jsdelivr.com
+  server: didgahnews.ir
   port: 443
   alpn:
   - h2
@@ -266,7 +266,7 @@ proxies:
       Host: media.velocityview.online
 - name: "M tls_h2 grpc CDN trojan \xA7 443 8"
   type: trojan
-  server: www.jsdelivr.com
+  server: didgahnews.ir
   port: 443
   alpn:
   - h2
@@ -279,7 +279,7 @@ proxies:
     grpc-service-name: templates/engineering/agile-sprint-board-pOJ0Ut1nkwu
 - name: "M tls_h2 grpc CDN vmess \xA7 443 8"
   type: vmess
-  server: www.jsdelivr.com
+  server: didgahnews.ir
   port: 443
   alpn:
   - h2
@@ -295,7 +295,7 @@ proxies:
     grpc-service-name: 2jLawPUqb4lepOJ0Ut1nkwu
 - name: "M tls WS CDN trojan \xA7 443 8"
   type: trojan
-  server: www.jsdelivr.com
+  server: didgahnews.ir
   port: 443
   alpn:
   - http/1.1
@@ -310,7 +310,7 @@ proxies:
       Host: media.velocityview.online
 - name: "M tls WS CDN vmess \xA7 443 8"
   type: vmess
-  server: www.jsdelivr.com
+  server: didgahnews.ir
   port: 443
   alpn:
   - http/1.1
@@ -328,7 +328,7 @@ proxies:
       Host: media.velocityview.online
 - name: "M tls grpc CDN trojan \xA7 443 8"
   type: trojan
-  server: www.jsdelivr.com
+  server: didgahnews.ir
   port: 443
   alpn:
   - http/1.1
@@ -341,7 +341,7 @@ proxies:
     grpc-service-name: templates/engineering/agile-sprint-board-pOJ0Ut1nkwu
 - name: "M tls grpc CDN vmess \xA7 443 8"
   type: vmess
-  server: www.jsdelivr.com
+  server: didgahnews.ir
   port: 443
   alpn:
   - http/1.1
@@ -357,7 +357,7 @@ proxies:
     grpc-service-name: 2jLawPUqb4lepOJ0Ut1nkwu
 - name: "M http WS CDN vmess \xA7 80 8"
   type: vmess
-  server: www.jsdelivr.com
+  server: didgahnews.ir
   port: 80
   alpn:
   - http/1.1
@@ -375,7 +375,7 @@ proxies:
       Host: media.velocityview.online
 - name: "M tls tcp CDN trojan \xA7 443 8"
   type: trojan
-  server: www.jsdelivr.com
+  server: didgahnews.ir
   port: 443
   alpn:
   - http/1.1
@@ -391,7 +391,7 @@ proxies:
     - media.velocityview.online
 - name: "M jh \xA7 443 8"
   type: vmess
-  server: www.jsdelivr.com
+  server: didgahnews.ir
   port: 443
   alpn:
   - http/1.1
@@ -585,7 +585,7 @@ proxies:
       Host: pokh.torii-leather.com
 - name: "Worker tls_h2 WS CDN trojan \xA7 443 11"
   type: trojan
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - h2
@@ -600,7 +600,7 @@ proxies:
       Host: dark-darkness.nonamemiste1818.workers.dev
 - name: "Worker tls_h2 WS CDN vmess \xA7 443 11"
   type: vmess
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - h2
@@ -618,7 +618,7 @@ proxies:
       Host: dark-darkness.nonamemiste1818.workers.dev
 - name: "Worker tls_h2 grpc CDN trojan \xA7 443 11"
   type: trojan
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - h2
@@ -631,7 +631,7 @@ proxies:
     grpc-service-name: templates/engineering/agile-sprint-board-pOJ0Ut1nkwu
 - name: "Worker tls_h2 grpc CDN vmess \xA7 443 11"
   type: vmess
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - h2
@@ -647,7 +647,7 @@ proxies:
     grpc-service-name: 2jLawPUqb4lepOJ0Ut1nkwu
 - name: "Worker tls WS CDN trojan \xA7 443 11"
   type: trojan
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - http/1.1
@@ -662,7 +662,7 @@ proxies:
       Host: dark-darkness.nonamemiste1818.workers.dev
 - name: "Worker tls WS CDN vmess \xA7 443 11"
   type: vmess
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - http/1.1
@@ -680,7 +680,7 @@ proxies:
       Host: dark-darkness.nonamemiste1818.workers.dev
 - name: "Worker tls grpc CDN trojan \xA7 443 11"
   type: trojan
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - http/1.1
@@ -693,7 +693,7 @@ proxies:
     grpc-service-name: templates/engineering/agile-sprint-board-pOJ0Ut1nkwu
 - name: "Worker tls grpc CDN vmess \xA7 443 11"
   type: vmess
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - http/1.1
@@ -709,7 +709,7 @@ proxies:
     grpc-service-name: 2jLawPUqb4lepOJ0Ut1nkwu
 - name: "Worker http WS CDN vmess \xA7 80 11"
   type: vmess
-  server: zula.ir
+  server: didgahnews.ir
   port: 80
   alpn:
   - http/1.1
@@ -727,7 +727,7 @@ proxies:
       Host: dark-darkness.nonamemiste1818.workers.dev
 - name: "Worker tls tcp CDN trojan \xA7 443 11"
   type: trojan
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - http/1.1
@@ -743,7 +743,7 @@ proxies:
     - dark-darkness.nonamemiste1818.workers.dev
 - name: "Worker jh \xA7 443 11"
   type: vmess
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - http/1.1
@@ -944,9 +944,9 @@ proxies:
 #   %set ptls=port if t=='tls' else None
 #   all_proxies_:
 #     type: http
-#     url: "https://dca.sytes.net/wR8CE3NWG4A0cfm1wv6XsVk0HdfgRE/bd831106-94e1-4ef3-b473-c1a8418ca107/clash/normal/proxies.yml?mode=new&ptls=&phttp=&35407"
-#     # path: dca.sytes.net/bd831106-94e1-4ef3-b473-c1a8418ca107-normal---proxies35407.yaml
-#     path: dca.sytes.net/--35407.yaml
+#     url: "https://dca.sytes.net/wR8CE3NWG4A0cfm1wv6XsVk0HdfgRE/bd831106-94e1-4ef3-b473-c1a8418ca107/clash/normal/proxies.yml?mode=new&ptls=&phttp=&763257"
+#     # path: dca.sytes.net/bd831106-94e1-4ef3-b473-c1a8418ca107-normal---proxies763257.yaml
+#     path: dca.sytes.net/--763257.yaml
 #     health-check:
 #       enable: true
 #       interval: 600
