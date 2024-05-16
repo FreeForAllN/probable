@@ -1165,7 +1165,7 @@ proxies:
       Host: pokh.torii-leather.com
 - name: "Worker tls_h2 WS CDN trojan \xA7 443 11"
   type: trojan
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - h2
@@ -1180,7 +1180,7 @@ proxies:
       Host: dark-darkness.nonamemiste1818.workers.dev
 - name: "Worker tls_h2 WS CDN trojan \xA7 2053 11"
   type: trojan
-  server: zula.ir
+  server: didgahnews.ir
   port: 2053
   alpn:
   - h2
@@ -1195,7 +1195,7 @@ proxies:
       Host: dark-darkness.nonamemiste1818.workers.dev
 - name: "Worker tls_h2 WS CDN vmess \xA7 443 11"
   type: vmess
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - h2
@@ -1213,7 +1213,7 @@ proxies:
       Host: dark-darkness.nonamemiste1818.workers.dev
 - name: "Worker tls_h2 WS CDN vmess \xA7 2053 11"
   type: vmess
-  server: zula.ir
+  server: didgahnews.ir
   port: 2053
   alpn:
   - h2
@@ -1231,7 +1231,7 @@ proxies:
       Host: dark-darkness.nonamemiste1818.workers.dev
 - name: "Worker tls_h2 grpc CDN trojan \xA7 443 11"
   type: trojan
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - h2
@@ -1244,7 +1244,7 @@ proxies:
     grpc-service-name: templates/engineering/agile-sprint-board-pOJ0Ut1nkwu
 - name: "Worker tls_h2 grpc CDN trojan \xA7 2053 11"
   type: trojan
-  server: zula.ir
+  server: didgahnews.ir
   port: 2053
   alpn:
   - h2
@@ -1257,7 +1257,7 @@ proxies:
     grpc-service-name: templates/engineering/agile-sprint-board-pOJ0Ut1nkwu
 - name: "Worker tls_h2 grpc CDN vmess \xA7 443 11"
   type: vmess
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - h2
@@ -1273,7 +1273,7 @@ proxies:
     grpc-service-name: 2jLawPUqb4lepOJ0Ut1nkwu
 - name: "Worker tls_h2 grpc CDN vmess \xA7 2053 11"
   type: vmess
-  server: zula.ir
+  server: didgahnews.ir
   port: 2053
   alpn:
   - h2
@@ -1289,7 +1289,7 @@ proxies:
     grpc-service-name: 2jLawPUqb4lepOJ0Ut1nkwu
 - name: "Worker tls WS CDN trojan \xA7 443 11"
   type: trojan
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - http/1.1
@@ -1304,7 +1304,7 @@ proxies:
       Host: dark-darkness.nonamemiste1818.workers.dev
 - name: "Worker tls WS CDN trojan \xA7 2053 11"
   type: trojan
-  server: zula.ir
+  server: didgahnews.ir
   port: 2053
   alpn:
   - http/1.1
@@ -1319,7 +1319,7 @@ proxies:
       Host: dark-darkness.nonamemiste1818.workers.dev
 - name: "Worker tls WS CDN vmess \xA7 443 11"
   type: vmess
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - http/1.1
@@ -1337,7 +1337,7 @@ proxies:
       Host: dark-darkness.nonamemiste1818.workers.dev
 - name: "Worker tls WS CDN vmess \xA7 2053 11"
   type: vmess
-  server: zula.ir
+  server: didgahnews.ir
   port: 2053
   alpn:
   - http/1.1
@@ -1355,7 +1355,7 @@ proxies:
       Host: dark-darkness.nonamemiste1818.workers.dev
 - name: "Worker tls grpc CDN trojan \xA7 443 11"
   type: trojan
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - http/1.1
@@ -1368,7 +1368,7 @@ proxies:
     grpc-service-name: templates/engineering/agile-sprint-board-pOJ0Ut1nkwu
 - name: "Worker tls grpc CDN trojan \xA7 2053 11"
   type: trojan
-  server: zula.ir
+  server: didgahnews.ir
   port: 2053
   alpn:
   - http/1.1
@@ -1381,7 +1381,7 @@ proxies:
     grpc-service-name: templates/engineering/agile-sprint-board-pOJ0Ut1nkwu
 - name: "Worker tls grpc CDN vmess \xA7 443 11"
   type: vmess
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - http/1.1
@@ -1397,7 +1397,7 @@ proxies:
     grpc-service-name: 2jLawPUqb4lepOJ0Ut1nkwu
 - name: "Worker tls grpc CDN vmess \xA7 2053 11"
   type: vmess
-  server: zula.ir
+  server: didgahnews.ir
   port: 2053
   alpn:
   - http/1.1
@@ -1413,7 +1413,7 @@ proxies:
     grpc-service-name: 2jLawPUqb4lepOJ0Ut1nkwu
 - name: "Worker http WS CDN vmess \xA7 80 11"
   type: vmess
-  server: zula.ir
+  server: didgahnews.ir
   port: 80
   alpn:
   - http/1.1
@@ -1431,7 +1431,7 @@ proxies:
       Host: dark-darkness.nonamemiste1818.workers.dev
 - name: "Worker http WS CDN vmess \xA7 2052 11"
   type: vmess
-  server: zula.ir
+  server: didgahnews.ir
   port: 2052
   alpn:
   - http/1.1
@@ -1449,7 +1449,7 @@ proxies:
       Host: dark-darkness.nonamemiste1818.workers.dev
 - name: "Worker tls tcp CDN trojan \xA7 443 11"
   type: trojan
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - http/1.1
@@ -1465,7 +1465,7 @@ proxies:
     - dark-darkness.nonamemiste1818.workers.dev
 - name: "Worker tls tcp CDN trojan \xA7 2053 11"
   type: trojan
-  server: zula.ir
+  server: didgahnews.ir
   port: 2053
   alpn:
   - http/1.1
@@ -1481,7 +1481,7 @@ proxies:
     - dark-darkness.nonamemiste1818.workers.dev
 - name: "Worker jh \xA7 443 11"
   type: vmess
-  server: zula.ir
+  server: didgahnews.ir
   port: 443
   alpn:
   - http/1.1
@@ -1499,7 +1499,7 @@ proxies:
       Host: dark-darkness.nonamemiste1818.workers.dev
 - name: "Worker jh \xA7 2053 11"
   type: vmess
-  server: zula.ir
+  server: didgahnews.ir
   port: 2053
   alpn:
   - http/1.1
@@ -1517,7 +1517,7 @@ proxies:
       Host: dark-darkness.nonamemiste1818.workers.dev
 - name: "Worker sst \xA7 80 11"
   type: vmess
-  server: zula.ir
+  server: didgahnews.ir
   port: 80
   alpn:
   - http/1.1
@@ -1535,7 +1535,7 @@ proxies:
       Host: dark-darkness.nonamemiste1818.workers.dev
 - name: "Worker sst \xA7 2052 11"
   type: vmess
-  server: zula.ir
+  server: didgahnews.ir
   port: 2052
   alpn:
   - http/1.1
@@ -1948,9 +1948,9 @@ proxies:
 #   %set ptls=port if t=='tls' else None
 #   all_proxies_:
 #     type: http
-#     url: "https://dca.sytes.net/wR8CE3NWG4A0cfm1wv6XsVk0HdfgRE/bd831106-94e1-4ef3-b473-c1a8418ca107/clash/normal/proxies.yml?mode=new&ptls=&phttp=&943026"
-#     # path: dca.sytes.net/bd831106-94e1-4ef3-b473-c1a8418ca107-normal---proxies943026.yaml
-#     path: dca.sytes.net/--943026.yaml
+#     url: "https://dca.sytes.net/wR8CE3NWG4A0cfm1wv6XsVk0HdfgRE/bd831106-94e1-4ef3-b473-c1a8418ca107/clash/normal/proxies.yml?mode=new&ptls=&phttp=&502770"
+#     # path: dca.sytes.net/bd831106-94e1-4ef3-b473-c1a8418ca107-normal---proxies502770.yaml
+#     path: dca.sytes.net/--502770.yaml
 #     health-check:
 #       enable: true
 #       interval: 600
