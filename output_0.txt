@@ -1,5 +1,5 @@
 #Unlimited Time
-trojan://1@11.07--2024.05.18.time:1107?sni=fake_ip_for_sub_link&security=tls#%E2%8F%B30.239/3.0TB
+trojan://1@19.07--2024.05.18.time:1907?sni=fake_ip_for_sub_link&security=tls#%E2%8F%B30.24/3.0TB
 vless://bd831106-94e1-4ef3-b473-c1a8418ca107@web-signin.dashboard.redirect.hummerston.net:443?hiddify=1&sni=video-weaver.ams03.hls.ttvnw.net&type=tcp&alpn=http/1.1&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=50VkjPmzhFVLuujM2ykBsYMZD71PnwX2Z0tE2HTmVG0&sid=41d28bfb86ce#video-weaver.ams03.hls.ttvnw.net%20reality%20XTLS%20direct%20vless
 vless://bd831106-94e1-4ef3-b473-c1a8418ca107@web-signin.dashboard.redirect.hummerston.net:2053?hiddify=1&sni=video-weaver.ams03.hls.ttvnw.net&type=tcp&alpn=http/1.1&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=50VkjPmzhFVLuujM2ykBsYMZD71PnwX2Z0tE2HTmVG0&sid=41d28bfb86ce#video-weaver.ams03.hls.ttvnw.net%20reality%20XTLS%20direct%20vless
 vless://bd831106-94e1-4ef3-b473-c1a8418ca107@www.authenticated-access.ukraine.megalogic-phoenix.com:443?hiddify=1&sni=vsn.bydlocoder.ru&type=tcp&alpn=http/1.1&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=50VkjPmzhFVLuujM2ykBsYMZD71PnwX2Z0tE2HTmVG0&sid=41d28bfb86ce#vsn.bydlocoder.ru%20reality%20XTLS%20direct%20vless
